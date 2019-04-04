@@ -3,4 +3,6 @@ This app is a sample of Dr appointment app using Flutter. This app will show som
 
 
 <img src="/ss/1.png" width="320">
+<img src="/ss/2.png" width="320">
+<img src="/ss/3.png" width="320">
 
